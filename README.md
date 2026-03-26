@@ -19,6 +19,7 @@ This repository will all the leetcode sql50 solution
 | [1148-article-views-i](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1527-patients-with-a-condition](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/1729-find-followers-count) |
