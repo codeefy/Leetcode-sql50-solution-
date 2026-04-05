@@ -8,3 +8,5 @@ Station.jpg
 
 where LAT_N is the northern latitude and LONG_W is the western longitude.
 
+https://www.hackerrank.com/challenges/weather-observation-station-16/problem
+
