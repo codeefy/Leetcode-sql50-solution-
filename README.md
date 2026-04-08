@@ -7,6 +7,7 @@ This repository will all the leetcode sql50 solution
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/0196-delete-duplicate-emails) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/0595-big-countries) |
