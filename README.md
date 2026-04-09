@@ -15,6 +15,7 @@ This repository will all the leetcode sql50 solution
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0619-biggest-single-number](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/0620-not-boring-movies) |
+| [1045-customers-who-bought-all-products](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/1068-product-sales-analysis-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/1148-article-views-i) |
