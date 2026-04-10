@@ -17,6 +17,7 @@ This repository will all the leetcode sql50 solution
 | [0620-not-boring-movies](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/1068-product-sales-analysis-i) |
+| [1070-product-sales-analysis-iii](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/1280-students-and-examinations) |
