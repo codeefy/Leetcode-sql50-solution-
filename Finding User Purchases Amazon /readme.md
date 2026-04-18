@@ -46,3 +46,13 @@ Identify **returning active users** by finding users who made a **second purchas
 A list of `user_id` who:
 - Made a **first purchase**
 - Then made a **second purchase within 1–7 days**
+
+
+## 💡 Approach
+
+1. Find the **first purchase date per user**
+2. Find the **earliest purchase after the first purchase**
+3. Ensure:
+   - Second purchase date > first purchase date  
+   - Difference between dates is between **1 and 7 days**
+4. Return distinct `user_id`
