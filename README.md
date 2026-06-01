@@ -31,4 +31,12 @@ This repository will all the leetcode sql50 solution
 | [1757-recyclable-and-low-fat-products](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
