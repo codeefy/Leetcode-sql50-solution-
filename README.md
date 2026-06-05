@@ -35,8 +35,17 @@ This repository will all the leetcode sql50 solution
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/0004-median-of-two-sorted-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
