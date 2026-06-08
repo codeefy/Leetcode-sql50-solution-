@@ -20,6 +20,7 @@ This repository will all the leetcode sql50 solution
 | [1070-product-sales-analysis-iii](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/1148-article-views-i) |
+| [1251-average-selling-price](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/codeefy/Leetcode-sql50-solution-/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
